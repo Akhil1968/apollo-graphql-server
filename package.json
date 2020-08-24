@@ -1,0 +1,23 @@
+{
+  "name": "graphql-server-examples",
+  "version": "1.0.0",
+  "description": "Examples of graphQL server",
+  "main": "books-authors-gq-server-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json-server": "json-server --watch db.json",
+    "gq-server-1": "nodemon 1-books-authors-gq-server.js",
+    "gq-server-2": "nodemon 2-books-authors-gq-server.js",
+    "gq-server-3": "nodemon 3-books-authors-gq-server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.16.1",
+    "graphql": "^15.3.0",
+    "axios": "^0.15.3",
+    "json-server": "^0.9.4",
+    "lodash": "^4.17.4"
+  }
+}

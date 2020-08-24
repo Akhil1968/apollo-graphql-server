@@ -1,0 +1,102 @@
+{
+    
+"myFavAuthors" : [
+    {
+        "id": "1",
+        "name": "J.K. Rowling",
+        "dob": "31 July 1965",
+        "country": "England"
+    },
+    {
+        "id": "2",
+        "name": "Michael Crichton",
+        "dob": "23 October 1942",
+        "country": "USA"
+    },
+    {
+        "id": "3",
+        "name": "Nelson Mandela",
+        "dob": "18 July 1918",
+        "country": "South Africa"
+    },
+    {
+        "id": "4",
+        "name": "Yuval Noah Harari",
+        "dob": "24 February 1976",
+        "country": "Israel"
+    },
+    {
+        "id": "5",
+        "name": "William Shakespeare",
+        "dob": "26 April 1564",
+        "country": "England"
+    },
+    {
+        "id": "6",
+        "name": "Jane Austen",
+        "dob": "16 December 1775",
+        "country": "England"
+    }
+
+  ],
+
+   "myFavBooks" : [
+    {
+        "id": "1",
+        "title": "Harry Potter and the Chamber of Secrets",
+        "authorId": "1"
+    },
+    {
+        "id": "2",
+        "title": "Jurassic Park",
+        "authorId": "2"
+    },
+    {
+        "id": "3",
+        "title": "A Long Walk to Freedom",
+        "authorId": "3"
+    },
+    {
+        "id": "4",
+        "title": "Sapiens",
+        "authorId": "4"
+    },
+    {
+        "id": "5",
+        "title": "Hamlet",
+        "authorId": "5"
+    },
+    {
+        "id": "6",
+        "title": "The Odyssey",
+        "authorId": "5"
+    },
+    {
+        "id": "7",
+        "title": "Pride and Prejudice",
+        "authorId": "6"
+    },
+    {
+        "id": "8",
+        "title": "Home Deus",
+        "authorId": "4"
+    },
+    {
+        "id": "9",
+        "title": "The Merchant of Venice",
+        "authorId": "5"
+    },
+    {
+        "id": "10",
+        "title": "The 12th Night",
+        "authorId": "5"
+    },
+    {
+        "id": "11",
+        "title": "The Tempest",
+        "authorId": "5"
+    }
+  ]
+} 
+
+
